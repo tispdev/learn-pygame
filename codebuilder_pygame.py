@@ -6,7 +6,7 @@ print("Pygame imported!")
 
 pygame.init()
 
-screen = pygame.display.set_mode((600,200))
+screen = pygame.display.set_mode((350,200))
 pygame.display.set_caption("My First Game!")
 
 
